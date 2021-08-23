@@ -1,0 +1,8 @@
+version: 1.0
+name: VendingMachine
+main: com.william.plugin.Main
+
+author: me
+description: Spawns a vending machine when the player places a cake block, get food by throwing gold nuggets at it!
+
+
